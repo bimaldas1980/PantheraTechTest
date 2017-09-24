@@ -1,0 +1,21 @@
+﻿
+<div class="panel-body" id="gameRatingList">
+    <table class="table table-striped table-bordered table-condensed">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Rating</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: gameList">
+            <tr data-bind="click: $root.updateRating">
+                <td style="width:200px;" data-bind="text: GameName"></td>
+                <td data-bind="text: GameDescription"></td>
+                <td style="width:100px;">
+                    <input class="rating" data-bind="readonlyRating: GameRating, size: 'a'">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

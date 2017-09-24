@@ -1,0 +1,196 @@
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\ApplicationInsights.config
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\csc.exe
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\System.Collections.Immutable.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\System.Reflection.Metadata.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\vbc.exe
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\VBCSCompiler.exe
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\VBCSCompiler.exe.config
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.dll.config
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.pdb
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Antlr3.Runtime.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\EntityFramework.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\EntityFramework.SqlServer.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.DataAccess.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.Model.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.Agent.Intercept.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.DependencyCollector.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.Web.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.WindowsServer.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.ApplicationInsights.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AspNet.Identity.Core.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Cookies.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Facebook.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Google.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.OAuth.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Twitter.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Web.Infrastructure.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Newtonsoft.Json.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Owin.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Net.Http.Formatting.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Helpers.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Http.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Http.Owin.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Http.WebHost.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Mvc.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Optimization.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Razor.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.WebPages.Deployment.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.WebPages.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.WebPages.Razor.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\WebGrease.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.Base.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Dapper.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.DataAccess.pdb
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.Model.pdb
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.DependencyCollector.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.Web.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.WindowsServer.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.ApplicationInsights.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Newtonsoft.Json.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Net.Http.Formatting.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Helpers.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Http.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Http.WebHost.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Mvc.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Optimization.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Razor.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.WebPages.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.WebPages.Deployment.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.WebPages.Razor.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Antlr3.Runtime.pdb
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\EntityFramework.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\EntityFramework.SqlServer.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AspNet.Identity.Core.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Facebook.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Cookies.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.OAuth.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Google.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Twitter.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Http.Owin.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.Base.pdb
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Dapper.xml
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\obj\Debug\GameRating.csprojResolveAssemblyReference.cache
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\obj\Debug\GameRating.dll
+C:\TestApps\Panthera - Tech Test\Exercise 4 - Game Rating\GameRating\GameRating\obj\Debug\GameRating.pdb
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\ApplicationInsights.config
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\csc.exe
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\System.Collections.Immutable.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\System.Reflection.Metadata.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\vbc.exe
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\VBCSCompiler.exe
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\roslyn\VBCSCompiler.exe.config
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.dll.config
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.pdb
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Antlr3.Runtime.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\EntityFramework.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\EntityFramework.SqlServer.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.DataAccess.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.Model.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.DependencyCollector.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.Web.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.WindowsServer.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.ApplicationInsights.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AspNet.Identity.Core.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Cookies.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Facebook.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Google.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.OAuth.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Twitter.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Web.Infrastructure.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Newtonsoft.Json.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Owin.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Net.Http.Formatting.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Helpers.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Http.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Http.Owin.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Http.WebHost.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Mvc.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Optimization.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Razor.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.WebPages.Deployment.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.WebPages.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.WebPages.Razor.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\WebGrease.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.Base.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Dapper.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.DataAccess.pdb
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.Model.pdb
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.DependencyCollector.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.Web.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AI.WindowsServer.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.ApplicationInsights.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Newtonsoft.Json.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Net.Http.Formatting.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Helpers.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Http.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Http.WebHost.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Mvc.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Optimization.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Razor.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.WebPages.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.WebPages.Deployment.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.WebPages.Razor.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Antlr3.Runtime.pdb
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\EntityFramework.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\EntityFramework.SqlServer.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AspNet.Identity.Core.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Facebook.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Cookies.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.OAuth.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Google.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.Twitter.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\System.Web.Http.Owin.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\GameRating.Base.pdb
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\bin\Dapper.xml
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\obj\Debug\GameRating.csprojResolveAssemblyReference.cache
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\obj\Debug\GameRating.dll
+C:\GitHub\Panthera---Tech-Test\Exercise 4 - Game Rating\GameRating\GameRating\obj\Debug\GameRating.pdb
