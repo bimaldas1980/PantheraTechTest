@@ -149,4 +149,21 @@ as
 	insert into GameRating(GameID, Rating) values (@GameID, @Rating)
 go
 
+exec Proc_AddRating 1, 3
+go
+exec Proc_AddRating 1, 5
+go
+exec Proc_AddRating 1, 1
+go
 
+exec Proc_AddRating 2, 5
+go
+
+exec Proc_AddRating 2, 4
+go
+
+exec Proc_AddRating 3, 2
+go
+
+exec Proc_AddRating 3, 3
+go
