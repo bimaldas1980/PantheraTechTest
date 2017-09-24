@@ -46,7 +46,7 @@ var gameRatingViewModel = function GameRating(gameId, gameName, gameDescription,
 
 $(document).ready(function () {
     var gr = new gameRatingViewModel();
-    ko.applyBindings(gr, $('#gameRatingList'));
+    ko.applyBindings(gr, document.getElementById('gameRatingListContainer'));
     gr.getGames();
 });
 

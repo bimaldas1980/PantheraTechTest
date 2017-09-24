@@ -1,0 +1,5 @@
+C:\GitHub\PantheraTechTest\Exercise 4 - Game Rating\GameRating\GameRating.Base\bin\Debug\GameRating.Base.dll
+C:\GitHub\PantheraTechTest\Exercise 4 - Game Rating\GameRating\GameRating.Base\bin\Debug\GameRating.Base.pdb
+C:\GitHub\PantheraTechTest\Exercise 4 - Game Rating\GameRating\GameRating.Base\obj\Debug\GameRating.Base.csprojResolveAssemblyReference.cache
+C:\GitHub\PantheraTechTest\Exercise 4 - Game Rating\GameRating\GameRating.Base\obj\Debug\GameRating.Base.dll
+C:\GitHub\PantheraTechTest\Exercise 4 - Game Rating\GameRating\GameRating.Base\obj\Debug\GameRating.Base.pdb

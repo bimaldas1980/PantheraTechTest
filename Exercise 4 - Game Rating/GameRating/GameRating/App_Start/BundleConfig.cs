@@ -21,6 +21,7 @@ namespace GameRating
                                 "~/Scripts/knockout-3.4.2.js",
                                 "~/Scripts/bootstrap-rating/bootstrap-rating.js",
                                 "~/Scripts/ViewModels/GameRatingViewModel.js",
+                                 "~/Scripts/ViewModels/GameItemViewModel.js",
                                 "~/Scripts/star-rating.js"
                               );
             bundles.Add(knockoutBundle);

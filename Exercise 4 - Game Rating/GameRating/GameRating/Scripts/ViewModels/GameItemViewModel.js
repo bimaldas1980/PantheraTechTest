@@ -39,7 +39,7 @@
 
 $(document).ready(function () {
     var gr = new gameItemViewModel();
-    ko.applyBindings(gr, $("#gameItemContainer"));
+    ko.applyBindings(gr,document.getElementById('gameItemContainer'));
     gr.getGame();
 });
 
