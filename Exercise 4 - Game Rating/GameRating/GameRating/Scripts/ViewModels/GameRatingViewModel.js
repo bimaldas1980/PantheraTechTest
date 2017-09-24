@@ -39,9 +39,10 @@ var gameRatingViewModel = function GameRating(gameId, gameName, gameDescription,
         });
     };
 
-    self.updateRating = function (gameRating) {
-        document.location.href = "/Item?id=" + gameRating.GameID;
-    }
+    //self.updateRating = function (gameRating) {
+    //    document.location.href = "/Item?id=" + gameRating.GameID;
+    //}
+    // data-bind="click: $root.updateRating"
 }
 
 $(document).ready(function () {

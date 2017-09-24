@@ -9,11 +9,11 @@
             </tr>
         </thead>
         <tbody data-bind="foreach: gameList">
-            <tr style="cursor:pointer;" data-bind="click: $root.updateRating">
+            <tr>
                 <td style="width:200px;" data-bind="text: GameName"></td>
                 <td data-bind="text: GameDescription"></td>
                 <td style="width:100px;">
-                    <input class="rating" data-bind="readonlyRating: GameRating, size: 'a'">
+                    <input class="rating" data-bind="readonlyRating: GameRating, size: 'md'">
                 </td>
             </tr>
         </tbody>
